@@ -6,6 +6,7 @@
       <class name="com.alchemy.hdfc.base.TestBase$CreateDriverInstance">
         <methods>
           <include name="intiateDriverInstance"/>
+          <include name="closeDriverInstace"/>
         </methods>
       </class> <!-- com.alchemy.hdfc.base.TestBase$CreateDriverInstance -->
     </classes>
